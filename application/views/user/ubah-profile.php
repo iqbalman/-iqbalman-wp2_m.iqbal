@@ -50,3 +50,4 @@ base_url('assets/img/profile/') . $user['image']; ?>" class="img-thumbnail" alt=
 <!-- /.container-fluid -->
 </div>
 <!-- End of Main Content --> 
+
