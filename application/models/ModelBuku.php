@@ -4,7 +4,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 class ModelBuku extends CI_Model
 {
     //manajemen buku
-    public function getBuku()
+    public function tampil()
     {
         return $this->db->get('buku');
     }
